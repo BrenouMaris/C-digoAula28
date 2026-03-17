@@ -1,0 +1,10 @@
+=== RELATÓRIO DE DESEMPENHO ACADÊMICO ===
+
+Aluno: Ana | Média: 8.33 | Situação: Aprovado
+Aluno: Bruno | Média: 5.17 | Situação: Recuperação
+Aluno: Carlos | Situação: Dados Inválidos/Corrompidos
+Aluno: Diana | Média: 9.77 | Situação: Aprovado
+Aluno: Eduardo | Média: 7.0 | Situação: Aprovado
+
+=== DESTAQUE ===
+Top Student: Diana com média 9.77
